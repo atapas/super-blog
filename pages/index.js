@@ -40,7 +40,7 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
       <footer>
-        Feeling something about it? You can contact me on <a href="https://twitter.com/tapasadhikary" target="_blank">Twitter</a>.
+        Feel good about it? Let me know on <a href="https://twitter.com/tapasadhikary" target="_blank">Twitter</a>.
       </footer>
     </Layout>
   )

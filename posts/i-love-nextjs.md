@@ -1,6 +1,6 @@
 ---
 title: 'I 💗 NEXT.js'
-date: '2020-10-22'
+date: '2021-07-02'
 ---
 
 **Next.js** gives you the best developer experience with all the features you need for production: 
