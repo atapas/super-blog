@@ -1,4 +1,4 @@
-# Nextjs-Playground
+# Super Blog
 
 Initially created using [Learn Next.js](https://nextjs.org/learn). Changing and growing with `NEXT.js` learning!
 
